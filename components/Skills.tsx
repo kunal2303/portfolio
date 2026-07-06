@@ -44,7 +44,6 @@ const DESKTOP_SKILLS: SkillItem[] = [
   { text: "POSTGRESQL", x: 935, y: 260, fontSize: 10, fontWeight: 400, fill: "#ccc",    rotate: -90 },
   { text: "ANSIBLE",    x: 958, y: 236, fontSize: 10, fontWeight: 400, fill: "#ccc",    rotate: -90 },
   // Row 5
-  { text: "SAP UI5",       x: 5,   y: 518, fontSize: 21, fontWeight: 700, fill: "#111" },
   { text: "MICROSERVICES", x: 150, y: 518, fontSize: 17, fontWeight: 600, fill: "#111" },
   { text: "OPEN SOURCE",   x: 515, y: 518, fontSize: 12, fontWeight: 400, fill: "#ccc" },
   { text: "CLEAN CODE",    x: 670, y: 518, fontSize: 17, fontWeight: 600, fill: "#111" },
@@ -62,7 +61,6 @@ const MOBILE_SKILLS = [
   { t: "JAVASCRIPT",          c: "text-xl font-bold text-gray-800" },
   { t: "BACKEND",             c: "text-xl font-bold text-gray-800" },
   { t: "REST API",            c: "text-base font-semibold text-gray-600" },
-  { t: "SAP UI5",             c: "text-base font-bold text-gray-800" },
   { t: "TYPESCRIPT",          c: "text-base font-semibold text-gray-500" },
   { t: "GIT",                 c: "text-lg font-bold text-blue-500" },
   { t: "KUBERNETES",          c: "text-base font-bold text-gray-800" },
