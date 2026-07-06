@@ -12,7 +12,7 @@ export const personal = {
 };
 
 export const skills = {
-  frontend: ["React", "SAP UI5", "HTML", "CSS", "JavaScript"],
+  frontend: ["React.js", "Next.js", "HTML", "CSS", "JavaScript"],
   backend: ["Java", "Spring Boot", "REST API"],
   tools: ["Git", "GitHub", "Linux", "Maven", "Gradle", "GitHub Copilot"],
 };
